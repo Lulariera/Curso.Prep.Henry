@@ -1,0 +1,5 @@
+Variables: es un valor asignado de algo. Ej: var nombreyapellido = "Laura Riera";
+Strings: son bloques o cadenas de texto entre comillas. Ej: "Laura Riera";
+Funciones: son objetos invocables. Si tenemos una variable, necesitamos una funcion para calcularla. A esta funcion se le puede agregar distintos argumentos pero va a devolver/retornar solo lo especificado.(return)
+Declaraciones: Se utiliza el codigo if para realizar verificaciones. La funcion retornara si algo es true or false, positive or negative, etc.
+Valores booleanos: Son valores que siguen una logica Ej: true or false, activate or deactivate, etc.
