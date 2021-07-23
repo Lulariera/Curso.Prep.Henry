@@ -1,0 +1,4 @@
+For: permite repetir instrucciones varias veces.
+And &&: Devuelve true si ambos operando son true, false lo contrario o si alguno de los operandos lo es.
+Or logico ||:equivalente a O,el resultado será true si al menos una de las expresiones es true.
+Not logico!:establece una negacion logica. si una expresion es true el operador hará que devuelva false.
